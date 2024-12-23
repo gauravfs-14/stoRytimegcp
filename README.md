@@ -23,5 +23,4 @@ are ready to run this app with `golem::run_dev()`or
 `storytimegcp::run_app()`.
 
 ## Links
-Google Cloud Run: https://storytime-209667139353.us-central1.run.app/  
-Shiny Apps: https://umair.shinyapps.io/storytimegcp/
+Shiny Apps: https://gauravfs.shinyapps.io/stoRytimegcp_demo_v1/
